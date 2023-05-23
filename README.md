@@ -9,6 +9,12 @@ Si estás buscando un desarrollador comprometido, creativo y orientado a resulta
 
 ¡No dudes en contactarme si tienes alguna pregunta o si hay algo en lo que pueda ayudarte!
 
+[![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-FFCA28?style=for-the-badge&logo=Visual Studio Code&logoColor=white&labelColor=101010)]()
+[![NetBeans](https://img.shields.io/badge/NetBeans-339933?style=for-the-badge&logo=NetBeans&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+
 Este es mi *portafolio* sobre mis estudios de Ciclo Superior, ***Desarrollo de Aplicaciones Multiplataforma (DAM).***
 
 Los módulos que he cursado son:
