@@ -1,6 +1,14 @@
 ## Portfoli
 <img src="https://github.com/ArnauMB1992/Portfoli/blob/main/MODULOS/fotos%20readme/ArnauMB.png" height="300" width="1000">
 
+¡Hola! Soy Arnau, un apasionado programador con experiencia adquirida durante mi primer año en el ciclo formativo superior de desarrollo de aplicaciones multiplataforma. Mi enfoque principal es el desarrollo de software, y me especializo en lenguajes como Java, HTML, PHP, CSS, XML/XSL y bases de datos MySQL.
+
+Mi objetivo profesional es dedicarme por completo a la programación. Me motiva la posibilidad de crear soluciones innovadoras y funcionales, y estoy entusiasmado por seguir aprendiendo y creciendo en mi carrera como programador.
+
+Si estás buscando un desarrollador comprometido, creativo y orientado a resultados, estaré encantado de contribuir a proyectos desafiantes y trabajar en equipo para alcanzar los objetivos establecidos.
+
+¡No dudes en contactarme si tienes alguna pregunta o si hay algo en lo que pueda ayudarte!
+
 Aquest és el meu *portfoli* sobre els meus estudis de Cicle Superior, **Desemvolupament d'aplicaccions Multiplataforma (DAM)**
 
 Els Moduls que e fet son:
