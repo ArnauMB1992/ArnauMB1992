@@ -1,7 +1,7 @@
 ## Portfoli
 <img src="https://github.com/ArnauMB1992/Portfoli/blob/main/MODULOS/fotos%20readme/ArnauMB.png" height="300" width="1000">
 
-¡Hola! Soy Arnau, un apasionado programador con experiencia adquirida durante mi primer año en el ciclo formativo superior de desarrollo de aplicaciones multiplataforma. Mi enfoque principal es el desarrollo de software, y me especializo en lenguajes como Java, HTML, PHP, CSS, XML/XSL y bases de datos MySQL.
+¡Hola! Soy Arnau, un apasionado programador con experiencia adquirida durante mi primer año en el ciclo formativo superior de desarrollo de aplicaciones multiplataforma. Mi enfoque principal es el desarrollo de software, y me especializo en lenguajes como Java, HTML, PHP, CSS, XML, XSL, PHP y bases de datos MySQL.
 
 Mi objetivo profesional es dedicarme por completo a la programación. Me motiva la posibilidad de crear soluciones innovadoras y funcionales, y estoy entusiasmado por seguir aprendiendo y creciendo en mi carrera como programador.
 
