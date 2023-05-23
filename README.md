@@ -1,5 +1,5 @@
 ## Portfoli
-
+![https://github.com/ArnauMB1992](https://github.com/ArnauMB1992/Portfoli/blob/main/MODULOS/fotos%20readme/ArnauMB.png)
 Aquest és el meu *portfoli* sobre els meus estudis de Cicle Superior, **Desemvolupament d'aplicaccions Multiplataforma (DAM)**
 
 Els Moduls que e fet son:
