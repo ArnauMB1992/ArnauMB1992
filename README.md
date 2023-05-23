@@ -1,5 +1,5 @@
 ## Portfoli
-<img src="https://github.com/ArnauMB1992/Portfoli/blob/main/MODULOS/fotos%20readme/ArnauMB.png" height="300" width="700">
+<img src="https://github.com/ArnauMB1992/Portfoli/blob/main/MODULOS/fotos%20readme/ArnauMB.png" height="300" width="1000">
 
 Aquest és el meu *portfoli* sobre els meus estudis de Cicle Superior, **Desemvolupament d'aplicaccions Multiplataforma (DAM)**
 
