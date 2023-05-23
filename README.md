@@ -9,7 +9,7 @@ Si estás buscando un desarrollador comprometido, creativo y orientado a resulta
 
 ¡No dudes en contactarme si tienes alguna pregunta o si hay algo en lo que pueda ayudarte!
 
-Este es mi *portafolio* sobre mis estudios de Ciclo Superior,*** Desarrollo de Aplicaciones Multiplataforma (DAM).***
+Este es mi *portafolio* sobre mis estudios de Ciclo Superior,***Desarrollo de Aplicaciones Multiplataforma (DAM).***
 
 Los módulos que he cursado son:
 - [**MP01** *Sistemas informáticos*](https://github.com/ArnauMB1992/Portfoli/tree/main/MODULOS/MP01%20-%20Sistemes%20informàtics) 
