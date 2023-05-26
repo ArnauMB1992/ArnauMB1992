@@ -64,6 +64,6 @@ Los módulos que he cursado son:
 - [**MP03** *Programación*](https://github.com/ArnauMB1992/Portfoli/tree/main/MODULOS/MP03%20-%20Programació)
 - [**MP04** *Lenguajes de marcas*](https://github.com/ArnauMB1992/Portfoli/tree/main/MODULOS/MP04%20-%20Llenguatges%20de%20marques)
 
-Mis estudios de DAM los realicé en el instituto Nicolau Copèrnic.
+Mis estudios de DAM los realizo en el instituto Nicolau Copèrnic.
 
 [<img src="https://copernic.cat/images/logos/logo-header.png" alt="Logo Nicolau copernic" width="110">](https://copernic.cat)
