@@ -10,7 +10,7 @@ Si estás buscando un desarrollador comprometido, creativo y orientado a resulta
 ¡No dudes en contactarme si tienes alguna pregunta o si hay algo en lo que pueda ayudarte!
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table background-color=white><tr><td valign="top" width="33%">
 
 
 
@@ -25,7 +25,7 @@ Si estás buscando un desarrollador comprometido, creativo y orientado a resulta
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%" background-color=white>
+</td><td valign="top" width="33%">
 
 
 
