@@ -62,7 +62,7 @@ Si estás buscando un desarrollador comprometido, creativo y orientado a resulta
     </a>
 
         
-- [*Curriculum Vitae*](https://github.com/ArnauMB1992/Portfoli/blob/main/Curr%C3%ADculum%20Vitae%20Arnau%20Mu%C3%B1oz.pdf)
+[*Curriculum Vitae*](https://github.com/ArnauMB1992/Portfoli/blob/main/Curr%C3%ADculum%20Vitae%20Arnau%20Mu%C3%B1oz.pdf)
 
 Este es mi *portafolio* sobre mis estudios de Ciclo Superior, ***Desarrollo de Aplicaciones Multiplataforma (DAM).***
 
