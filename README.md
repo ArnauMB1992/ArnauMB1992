@@ -1,5 +1,5 @@
 ## Portfoli
-<img src="https://github.com/ArnauMB1992/Portfoli/blob/main/MODULOS/fotos%20readme/ArnauMB.png" height="300" width="1000">
+
 
 ¡Hola! Soy ***Arnau Muñoz***, un programador apasionado con experiencia adquirida durante mi ciclo formativo superior en desarrollo de aplicaciones multiplataforma. Me centro principalmente en el desarrollo de software, el desarrollo web y las bases de datos.
 
